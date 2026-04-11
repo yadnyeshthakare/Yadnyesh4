@@ -1,10 +1,10 @@
-Hi, I'm Yadnyesh 👋
+# Hi, I'm Yadnyesh 👋
 
 Data Analyst with exposure to data workflows and data modeling, working with SQL, Python, and Power BI to analyze data, build dashboards, and structure datasets for reporting.
 
 ---
 
-🔹 What I Do
+## 🔹 What I Do
 
 - Analyze data using SQL and Python to generate actionable insights  
 - Build KPI dashboards to track business performance and trends  
@@ -14,7 +14,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-🔹 Key Skills
+## 🔹 Key Skills
 
 - SQL (Joins, Aggregations, Data Modeling)  
 - Python (Pandas, Data Analysis, EDA)  
@@ -25,9 +25,9 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-🔹 Featured Projects
+## 🔹 Featured Projects
 
-📊 Sales Analytics Dashboard (SQL + Power BI)
+### 📊 Sales Analytics Dashboard (SQL + Power BI)
 
 - Analyzed 150K+ transactions using SQL to evaluate revenue, sales volume, and market-level performance across regions  
 - Tracked ~986M revenue and ~2M units sold through KPI dashboards, enabling clear visibility into business performance  
@@ -37,7 +37,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-🗄️ Relational Data Modeling & SQL Workflow System (PostgreSQL)
+### 🗄️ Relational Data Modeling & SQL Workflow System (PostgreSQL)
 
 - Designed normalized relational schema (6+ tables) with primary and foreign keys to ensure data integrity and structured data storage  
 - Developed SQL-based data workflows for transformation and reporting using joins, aggregations, and CTAS queries  
@@ -46,7 +46,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-🏡 Airbnb Pricing & Demand Analytics (Python)
+### 🏡 Airbnb Pricing & Demand Analytics (Python)
 
 - Analyzed Airbnb listings dataset using Pandas to evaluate pricing, availability, and demand patterns across different segments  
 - Performed data cleaning and feature preparation to ensure consistent and reliable analysis  
@@ -55,7 +55,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-📈 Sales KPI Dashboard (Excel)
+### 📈 Sales KPI Dashboard (Excel)
 
 - Built KPI dashboards using Excel to track sales performance, revenue trends, and operational metrics  
 - Used pivot tables and data transformations to summarize large datasets for reporting and analysis  
@@ -63,7 +63,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 - Applied data validation and cleaning techniques to ensure accuracy and consistency in reporting  
 ---
 
-🔹 Focus
+## 🔹 Focus
 
 - Applying SQL-based data workflows for transformation and reporting  
 - Building structured datasets for analytics and dashboards  
@@ -72,7 +72,7 @@ Data Analyst with exposure to data workflows and data modeling, working with SQL
 
 ---
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 
 LinkedIn: https://linkedin.com/in/yadnyesh-thakare  
 Email: thakareyadnyesh@gmail.com  
